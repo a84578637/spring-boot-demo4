@@ -23,6 +23,7 @@ public class PersonController {
 
         List<Person> all = personService.getAll();
         System.out.println(all + "11sdaccccccccccccccccc");
+        System.out.println("bbbbbbbbbb");
 
 
         return all;
