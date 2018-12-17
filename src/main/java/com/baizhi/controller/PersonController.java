@@ -22,7 +22,7 @@ public class PersonController {
         System.out.println("in controller");
 
         List<Person> all = personService.getAll();
-        System.out.println(all + "11sdaaaaaa");
+        System.out.println(all + "11sdaccccccccccccccccc");
 
 
         return all;
